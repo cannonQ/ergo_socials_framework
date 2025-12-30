@@ -43,13 +43,13 @@ These rules apply to all official Ergo-managed social spaces, including Discord,
 
 ## 3. Discussion Standards
 
-### 3.1 Good-Faith Participation
+### 3.1 Good-Faith Participation [NEED EXAMPLES]
 
 - Assume good faith when interpreting others' statements.
 - Respond to the strongest reasonable interpretation of what someone says.
 - Debate ideas—not people.
 
-### 3.2 Thoughtful & Constructive Contributions
+### 3.2 Thoughtful & Constructive Contributions [EXAMPLES]
 
 - As topics become more divisive or sensitive, comments should become more thoughtful and substantive, not less.
 - Constructive criticism is welcome; hostility is not.
@@ -110,6 +110,7 @@ This includes:
 
 - Members are responsible for adapting their communication style when interacting with others.
 - Persistent sarcasm, baiting, or banter toward someone who does not interpret it as intended may be treated as harassment.
+[HOW MANY IS PERSISTENT; HOW TO MAKE KNOW IF CULTURAL]
 - Literal interpretation is not grounds for escalation or accusation.
 
 ---
@@ -146,6 +147,7 @@ Moderators may take action to:
 - clean up or lock threads
 
 Actions may be taken with or without prior warning, depending on severity.
+[Actions need to be logged in public record (perhaps scraper can summarize idk).]
 
 ### 7.2 Authority Does Not Confer Immunity
 
@@ -161,6 +163,7 @@ During periods of acute escalation, moderators may temporarily restrict particip
 
 - This is preventative, not punitive.
 - Applies regardless of role or tenure.
+- Actions need to be logged in public record (perhaps scraper can summarize idk).
 
 ### 7.4 No Moderation Evasion
 
@@ -183,7 +186,9 @@ If a member believes moderation action, harassment, or rule violations have been
 
 - Disputes must be submitted via email to: **team@sigmanauts.com**
   - Subject line: `Dispute – [Username / Social Platform]`
-- The dispute will be reviewed by the full admin team, excluding any parties directly involved.
+- The dispute will be reviewed by [PICK ONE>> (I think Jury is better)
+-- Community Jury Pool: Maintain a roster of 15-20 long-standing members (12+ months, no mod history) who can be randomly selected (3-5 people) for serious disputes. They review evidence, admins execute.
+-- External Arbitrator: Partner with another Ergo-adjacent org (EF, DevDAO, ) for mutual arbitration on admin-level disputes.]
 - The submitting member may be invited into a private discussion for clarification.
 - A written decision will be issued within 10 business days.
 - The decision will include: outcome, any actions taken, whether the decision is final or subject to future review
@@ -219,7 +224,7 @@ Administrators and moderators are held to the same rules as all members and are 
 
 ---
 
-## 8. Common Sense Clause
+## 8. Common Sense Clause [CANNOT BE USED REPEATEDLY OR NO LONGER ADMIN]
 
 Not every situation can be explicitly documented.
 
