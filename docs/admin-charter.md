@@ -46,6 +46,7 @@ Admins are empowered to:
 - Significant actions (bans, admin removals, structural changes) require admin-team review.
 - Admins directly involved in a dispute must recuse themselves.
 - Majority agreement governs outcomes.
+- [REVIEW BY 3RD PARTY NECESSARY IF REQUESTED]
 
 ---
 
@@ -102,7 +103,7 @@ Admins may be removed for:
 
 ## 9. Transparency & Trust
 
-- Decisions should be explained at a high level where appropriate
+- Decisions should be explained at a high level where appropriate [SHOULD BE EVERY TIME, RECORDED]
 - Private details remain private
 - Trust is maintained through process clarity, not secrecy
 
@@ -115,3 +116,7 @@ Admins accept this role knowing:
 - it is service, not power
 - restraint matters more than authority
 - the community outlives any individual
+
+- [TERM LIMIT]
+- [HOW TO AMMEND THESE DOCUMENTS? PAIDEIA VOTE?]
+- 
