@@ -10,7 +10,7 @@ These are non-negotiable. If someone doesn't meet these, they shouldn't proceed.
 
 Applicants must:
 
-- Be a current Sigmanauts member
+- Be a current Sigmanauts member [CAN BEEN SEEN AS BIAS, HOW TO EXPAND IN 2026?]
 - Have a minimum 6–12 months of active participation in the Ergo ecosystem (Discord, Telegram, GitHub, Reddit, Twitter forums, governance, or community initiatives)
 - Be known by multiple existing members, not just one admin
 
@@ -99,3 +99,4 @@ Before full admin status:
 - Limited permissions
 - Mentorship by an existing admin
 - Explicit review at the end
+- [WHO REVIEWS??]
